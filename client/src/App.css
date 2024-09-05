@@ -1,0 +1,66 @@
+body {
+  font-family: 'Rubik', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Rubik Mono One', sans-serif;
+}
+
+.small {
+  font-weight: 300;
+  font-style: italic;
+}
+#navbar, div.container-fluid {
+--bs-bg-opacity: 1;
+background-color: pink;
+
+}
+a.nav-link{
+  color:black;
+}
+a.nav-link:hover {
+  color:hotpink;
+
+}
+a.navbar-brand{
+  color-scheme:black !important;
+}
+.btn-success, .btn-info,.nav-pills .nav-link.active {
+  background-color: hotpink;
+  border-color: white;
+}
+.btn-success:hover, .btn-info:hover {
+  background-color:deeppink;
+}
+
+.aliah-nav {
+  background-color: pink !important;
+}
+div.container-fluid a{
+  color:black;
+}
+
+div.container-fluid a:hover{
+  color:deeppink;
+}
+.hello{
+  color:black
+}
+
+.hello:hover{
+  color:black
+}
+
+
+
+/* .aliah-container {
+  background-color: yellow !important;
+  border: 2px solid orange;
+  padding: 10px;
+  margin: 10px;
+} */
